@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/project3forcv/static/css/main.6bafe4f8.css",
+    "main.js": "/project3forcv/static/js/main.a4459d8e.js",
+    "static/media/simons_cat.gif": "/project3forcv/static/media/simons_cat.d2dd4c13bec6ab616e57.gif",
+    "static/media/photo pets.png": "/project3forcv/static/media/photo pets.f2de7c0ad65d62c276ab.png",
+    "static/media/girl&cat.jpg": "/project3forcv/static/media/girl&cat.e5ceaf1f33900bc9343f.jpg",
+    "static/media/cats-and-dogs.png": "/project3forcv/static/media/cats-and-dogs.cdcb940c991f770a0f2b.png",
+    "static/media/bg.jpg": "/project3forcv/static/media/bg.aa51847858e975b59cbb.jpg",
+    "static/media/plcat.jpg": "/project3forcv/static/media/plcat.a531d9922fc21ad8d2da.jpg",
+    "static/media/boy&dog.jpg": "/project3forcv/static/media/boy&dog.a0bc348f3a66df8ad3e9.jpg",
+    "static/media/pldog.jpg": "/project3forcv/static/media/pldog.45f09475855b34c22869.jpg",
+    "static/media/siluet-kotika.jpg": "/project3forcv/static/media/siluet-kotika.3f3075a7736605c0c5b7.jpg",
+    "static/media/logo.svg": "/project3forcv/static/media/logo.4f44f94ab5b180db1ace3ac074628350.svg",
+    "static/media/icon-phone.svg": "/project3forcv/static/media/icon-phone.a35f5994f4159f880e62ab16fb949cf5.svg",
+    "static/media/icon-email.svg": "/project3forcv/static/media/icon-email.1366c9c2274b952e3908549c57110330.svg",
+    "static/media/icon-marker.svg": "/project3forcv/static/media/icon-marker.5daa3a708b84ee13bd39d8cfc7e67143.svg",
+    "index.html": "/project3forcv/index.html",
+    "main.6bafe4f8.css.map": "/project3forcv/static/css/main.6bafe4f8.css.map",
+    "main.a4459d8e.js.map": "/project3forcv/static/js/main.a4459d8e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6bafe4f8.css",
+    "static/js/main.a4459d8e.js"
+  ]
+}
