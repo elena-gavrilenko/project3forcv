@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/project3forcv/static/css/main.6bafe4f8.css",
-    "main.js": "/project3forcv/static/js/main.a4459d8e.js",
+    "main.js": "/project3forcv/static/js/main.2a5aa142.js",
     "static/media/simons_cat.gif": "/project3forcv/static/media/simons_cat.d2dd4c13bec6ab616e57.gif",
     "static/media/photo pets.png": "/project3forcv/static/media/photo pets.f2de7c0ad65d62c276ab.png",
     "static/media/girl&cat.jpg": "/project3forcv/static/media/girl&cat.e5ceaf1f33900bc9343f.jpg",
@@ -17,10 +17,10 @@
     "static/media/icon-marker.svg": "/project3forcv/static/media/icon-marker.5daa3a708b84ee13bd39d8cfc7e67143.svg",
     "index.html": "/project3forcv/index.html",
     "main.6bafe4f8.css.map": "/project3forcv/static/css/main.6bafe4f8.css.map",
-    "main.a4459d8e.js.map": "/project3forcv/static/js/main.a4459d8e.js.map"
+    "main.2a5aa142.js.map": "/project3forcv/static/js/main.2a5aa142.js.map"
   },
   "entrypoints": [
     "static/css/main.6bafe4f8.css",
-    "static/js/main.a4459d8e.js"
+    "static/js/main.2a5aa142.js"
   ]
 }
